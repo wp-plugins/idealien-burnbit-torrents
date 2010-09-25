@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: idealien
 Donate link: http://idealienstudios.com
-Tags: torrent, media, podcast, torrents, burnbit, bandwidth
+Tags: torrent, media, podcast, torrents, burnbit, bandwidth, idealien
 Requires at least: 3.0
 Tested up to: 3.0.1
 Stable tag: 0.1
